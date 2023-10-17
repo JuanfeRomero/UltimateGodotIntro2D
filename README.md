@@ -1,3 +1,5 @@
+This is a clone of clear code's project without the game code for easier download of only the resources.
+
 This is the code for the video "Ultimate introduction to Godot 4 [2D]" by Clear Code.   
 The code itself is CC0, you can use it for any (both commercial and private) project without asking for permission.  
 
